@@ -1,5 +1,6 @@
 # NFAE_Evaluator
-Theory of Computation Assignment 3 - Evaluating whether or not an NFA w/ e-moves accepts or rejects different words
+
+Evaluating whether or not a Nondeterministic Finite Automata w/ e-moves accepts or rejects different words
 
 # Looking for More?
 
